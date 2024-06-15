@@ -1,0 +1,4 @@
+IAM/Terraform_for_IAM/.terraform/
+IAM/Terraform_for_IAM/terraform.tfstate
+IAM/Terraform_for_IAM/terraform.tfplan
+IAM/Terraform_for_IAM/terraform.tfstate.backup
